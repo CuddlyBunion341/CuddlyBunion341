@@ -1,18 +1,20 @@
-  <h1 align="center">Hi 👋! I am Dani</h2>
+  <h1 align="center">Hi, I am Dani 👋!</h2>
   
   <div align="center">
   
-  I am a passionate developer, Rails novice, Rustling newbie.
+  I am a passionate developer, Rails novice, Rust newbie.
   
   
-  I like to code when I am not busy configuring my Linux Desktop 😓
+  I like to code and break stuff when I am not busy changing my dotfiles 😓
     
 ![Silly](https://github.com/user-attachments/assets/f9b55492-25f4-45e2-8caa-799ed042f89d)
 
 <div>
   <div align="center">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/daniel-bengl-aa5225221/">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
   </div>
 </div>
   
