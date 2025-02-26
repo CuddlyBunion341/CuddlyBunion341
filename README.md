@@ -2,7 +2,7 @@
   
   <div align="center">
   
-  I am a passionate developer, Rails novice, Rust newbie.
+  I am a busy developer, Rails novice, Rust newbie.
   
   
   I like to code and break stuff when I am not busy changing my dotfiles 😓
