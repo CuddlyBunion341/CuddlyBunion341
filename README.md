@@ -23,7 +23,7 @@
   ## My Tech
   
   
-  [![My Skills](https://skillicons.dev/icons?i=apple,arch,astro,bash,bevy,blender,bootstrap,bun,devto,git,graphql,heroku,java,latex,linux,neovim,nix,notion,obsidian,p5js,postgres,rails,react,regex,ruby,rust,sass,tailwind,threejs,ts,vim,wasm,&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=apple,arch,astro,bash,bevy,blender,bootstrap,bun,devto,git,graphql,heroku,java,latex,neovim,nix,notion,obsidian,p5js,postgres,rails,react,ruby,rust,sass,tailwind,threejs,ts,vim,wasm,&perline=10)](https://skillicons.dev)
 
 </div>
 
