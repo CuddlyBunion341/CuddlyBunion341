@@ -11,7 +11,7 @@ I like to code and break stuff when I am not busy changing my dotfiles 😓
 
 <div>
   <div align="center">
-    <a href="https://discordapp.com/users/456151064484249612">
+    <a href="https://discord.com/invite/2zB82NKA">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
     <a href="https://www.linkedin.com/in/daniel-bengl-aa5225221/">
