@@ -37,7 +37,7 @@ _(Footage of me doing stuff at the computer)_
 
 ## Interests
 
-* Writing code, memes about coding, books about coding 👨‍💻
+* Writing code, composing memes about coding, reading books about coding 👨‍💻
 * Computer graphics (new to GLSL and linear algebra 👨‍🎓)  
 * Unix and Neovim: The terminal is my happy place  
 * Factory games 🏭 - I am always up to a optimization challenge!
