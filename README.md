@@ -29,9 +29,11 @@ _(Footage of me doing stuff at the computer)_
 
 ## About Me
 
+* Software Engineer at the amazing [Renuo AG](https://renuo.ch) 🚀!
 * Bachelor student at the [Zurich School of Engineering](https://www.zhaw.ch/en/engineering) (ZHAW)
 * Board member at the [queer group](https://alias-zhaw.ch/intersektion-q+/) at ZHAW 🌈
-* Occasionally write blog articles at [cb341.dev](https://cb341.dev)
+* Occasionally write blog articles at [cb341.dev](https://cb341.dev/blog)
+
 
 ---
 
